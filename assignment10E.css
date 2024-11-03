@@ -1,0 +1,52 @@
+.emoji-face {
+  position: relative;
+}
+.mouth-flat {
+  position: absolute;
+  top: 65px;
+  left: 35px;
+}
+
+.left {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+
+.right {
+  position: absolute;
+  top: 25px;
+  left: 65px;
+}
+
+.mouth-round {
+  position: absolute;
+  top: 65px;
+  left: 42px;
+}
+
+.mouth-amazed {
+  position: absolute;
+  top: 65px;
+  left: 34px;
+}
+
+.mouth-worried {
+  position: absolute;
+  top: 65px;
+  left: 34px;
+}
+
+.looking-right {
+  position: relative;
+}
+
+.looking-right .left {
+  position: absolute;
+  left: 35px;
+}
+
+.looking-right .right {
+  position: absolute;
+  left: 68px;
+}
